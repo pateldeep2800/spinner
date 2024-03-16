@@ -1,4 +1,4 @@
-# spinner for choosing favourite cricketer 
+# Using spinner select your favourite cricketer
 TOOL- android studio
 
 LANGUAGE- java
